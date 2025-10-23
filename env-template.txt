@@ -1,0 +1,15 @@
+# DocGuard Backend Environment Variables
+# Copy this file to .env and fill in your values
+
+# Smart Contract Configuration
+CONTRACT_ADDRESS=0xYourDeployedContractAddress
+PRIVATE_KEY=your_wallet_private_key
+RPC_URL=https://rpc-amoy.polygon.technology
+
+# Pinata IPFS Configuration
+PINATA_API_KEY=your_pinata_api_key
+PINATA_API_SECRET=your_pinata_api_secret
+
+# Server Configuration
+PORT=5000
+NODE_ENV=development
