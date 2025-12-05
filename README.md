@@ -5,7 +5,7 @@ This is the backend API for **MedChain Vault** – a secure, blockchain-powered 
 
 ---
 
-## Features
+## Features of this Project
 
 * **Secure File Upload**: Receives EMRs, hashes files, uploads to IPFS, and logs file info to the smart contract.
 * **On-chain Audit Trail**: Fetches all upload events for transparent history.
